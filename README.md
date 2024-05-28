@@ -3,7 +3,7 @@
 Welcome to the PowerShell Script Learning Repository! This repository is designed to helps understand the basics of PowerShell Scripting with example scripts.
 
 ## Table of Contents
-1. [Introduction](./)
+1. [Introduction](./intro.md)
 2. [Scripts](./)
   1. [Create a new user](./Scripts/create-user.md)
   2. [Add user to a group](./Scripts/add-user-to-group.md)
