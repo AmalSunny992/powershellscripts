@@ -1,3 +1,4 @@
+![PowerShell Badge](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=for-the-badge)
 # PowerShell Scripting tutorials
 
 Welcome to the PowerShell Script Learning Repository! This repository is designed to helps understand the basics of PowerShell Scripting with example scripts.
