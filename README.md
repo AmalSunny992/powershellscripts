@@ -6,7 +6,7 @@ Welcome to the PowerShell Script Learning Repository! This repository is designe
 ## Table of Contents
 1. [Introduction](./intro.md)
 2. [Advanced PowerShell Scripting](./Advanced-PowerShell-Scripting.md)
-3. [Managing Windows with PowerShell](./Managing-Windows-with-PowerShell.md)
+3. [Managing Windows with PowerShell](./Managing-Windows-with-Powershell.md)
 4. [Using PowerShell for Automation](./Using-PowerShell-For-Automation.md)
 4. [Scripts](./Scripts)
     1. [Create a new user](./Scripts/create-user.md)
